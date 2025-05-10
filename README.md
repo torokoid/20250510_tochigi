@@ -271,7 +271,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、今回は雨に濡れるツバキから夕暮れの男体山まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、今回は街中のお花から埼玉の街はずれにある牧場まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
