@@ -118,11 +118,11 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2025May07.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2025May10.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/05/10、街のお花から、市街地脇の牧場まで!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/05/08,10、街のお花から、市街地脇の牧場まで!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -173,7 +173,7 @@ p.note { display: none; }
 <h2><span class="yellow">8日最後はドリームかわちプールの上に浮かぶお月様</span></h2>
 <a href="20250510_014.JPG" target="_blank"><img src="20250510_014.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">9日は映像無しで10日は立ち寄った埼玉県でお昼に食べたおそば</span></h2>
+<h2><span class="yellow">9日は映像無しで10日は立ち寄った埼玉県でお昼に食べたお蕎麦</span></h2>
 <a href="20250510_015.JPG" target="_blank"><img src="20250510_015.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お蕎麦屋さんのすぐ近くには牧場がありました</span></h2>
