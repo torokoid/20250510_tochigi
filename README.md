@@ -132,8 +132,8 @@ p.note { display: none; }
 <h2><span class="yellow">またまた、さだまさしさんですが、「もう一つの雨やどり」</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZ9nXCizLh8?si=JmUSFCt-yJ68oFyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
-<h2><span class="yellow">こちらがオリジナルの「雨やどり」</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j9_KhXeEE-s?si=WGNl2lnybeOTady7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">こちらがオリジナルの「雨やどり」・・・リンクミス修正しました</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bl7s7l5j1zw?si=2l0nKmSWBuzIPjuP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <h2><span class="yellow">最後は戦争問題を歌った「キーウから遠く離れて」</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkv94w4e6tk?si=bjg_uzReDyArzdGh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
